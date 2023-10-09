@@ -1,0 +1,35 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    background-color: darkkhaki;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+ul {
+    list-style-position: inside;  
+}
+
+ol {
+    list-style-position: inside;  
+}
+
+.edad {
+    background: rgb(240,230,140);
+background: radial-gradient(circle, rgba(240,230,140,1) 17%, rgba(1,101,56,1) 81%, rgba(9,121,110,1) 100%, rgba(2,0,36,1) 100%);
+border-radius: 5px;
+width: 300px; 
+margin: 0 auto;
+}
+
+.domicilio {
+    width: 300px;	
+    height: 100px;		
+    position: relative;	
+    box-shadow: 2px 5px 12px 9px #262323;
+    margin: 0 auto;
+    font-family: 'Oswald', sans-serif;
+    font-size: 17px;
+}
